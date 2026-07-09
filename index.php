@@ -218,18 +218,12 @@ require_once 'header.php';
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s.</p>
                     <img src="img/testi_bg.jpg" alt="...">
                     <h5>Mr. Sanjeev Singh<br>
-                        (New Delhi)</h5>
+                        (Mysore)</h5>
                 </div>
-                <div class="item ">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s.</p>
-                    <img src="img/testi_bg.jpg" alt="...">
-                    <h5>Mr. Sanjeev Singh<br>
-                        (New Delhi)</h5>
-                </div>
+                
             </div>
             
-            <!-- Controls --> 
-            <a class="left carousel-control" href="#testimonial" role="button" data-slide="prev"> <span class="fa fa-long-arrow-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#testimonial" role="button" data-slide="next"> <span class="fa fa-long-arrow-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+
     </div>
 </section>
 <section class="process">
