@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+}
+
+@media only screen and (max-width: 767px) {
+	
+	.top_head{  display:none;}
+	.navbar {
+    position: relative;
+		min-height: auto;background: #222;}
+	.navbar-brand {
+		position: unset;transform: unset;padding: 5px 10px;}
+	.navbar-brand > img{ width:40%}
+	.navbar-toggle .icon-bar{ background:#ffff;}
+	.nav > li{ width:100%}
+	.carousel-caption, nav.navbar.fix-nav {
+		position: unset;}
+	.carousel-caption h1{ font-size:32px;margin: 0 0 10px;}
+	.carousel-caption p {
+    font-size: 14px;
+}
+	.btn-view {
+    font-size: 18px;
+    color: #222;
+    border: 1px solid #222;
+    min-width: 107px;
+    height: 35px;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 28px;
+}
+	.about_data {
+    width: 100%;
+    float: right;
+    background: #f1f1f1;
+    padding: 20px;
+    margin: 0;
+    position: relative;
+    z-index: 1;
+    min-height: auto;
+}
+	.about {
+  
+    padding: 10px 0;
+}
+	.event_inner li, .event_box > li {
+    width: 100%;
+}
+	.event_h li {
+    height: auto;
+}
+	.ser_box{margin-top: 20px;
+margin-bottom: 20px;}
+	form.lets, .gallerie li {
+		width: 100%;}
+	#testimonial .carousel-control.left {
+    left: 0;
+    top: 320px;
+}
+	#testimonial a.right.carousel-control {
+    right: 20px;
+    top: 320px;
+}
+	.carousel, .about {
+    
+    overflow: hidden;
+}
+	.footers.fix-nav > li, .footers.fix-nav > li a{ font-size:12px}
+	section.process li {
+
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+}
+	.title {
+		font-size: 22px;}
+	.navbar-right {
+    float: left;
+}
+	.navbar-nav .open .dropdown-menu > li > a{ color:#f1f1f1}
+	nav.navbar.fix-nav .navbar-nav > li > a {
+    line-height: 15px;
+}
+	.navbar-nav > li > a:hover::after { display:none;}
+	#carousel-service .carousel-indicators{ left:50%}
+	#carousel .carousel-caption{ padding:15px 30px}
+	.inner h3{ font-size:22px;}
+	.inner {
+		min-height: 80px;}
+	.contact{ padding-top:55px}
+	.addres {
+
+    min-height: auto;
+    margin-bottom: 15px;
+}
+	.contact_form h1{ font-size:22px}
+	.tab-content .box img {
+    width: 100%;
+}
+	.inner_detail li{ width:100%;    width: 100%;
+    height: auto;
+    min-height: auto;}
+	.detail_img{ min-height:auto}
+	.inner_detail li .detail_data{ padding:15px}
+	.gallery_d {
+		height: 100px;}
+	.partner {
+		padding: 0px 0 30px;}
+	.addres h3 {
+		margin: 0 0 15px;}
+}
+
