@@ -4,20 +4,52 @@ require_once 'header.php';
   <div id="carousel" class="carousel slide" data-ride="carousel"> 
     
     <!-- Wrapper for slides -->
-    <div class="carousel-inner" role="listbox">
-        <div class="item active"> <img src="img/banner.jpg" alt="...">
-            <div class="carousel-caption">
-                <h1>Wedding Event</h1>
-                <p>In India Marriage is considering as an iconic and auspicious event of everyone’s life.</p>
-                <a href="#0" class="btn-view">Plan Now </a> </div>
-        </div>
-        <div class="item "> <img src="img/banner.jpg" alt="...">
-            <div class="carousel-caption">
-                <h1>Wedding Event</h1>
-                <p>In India Marriage is considering as an iconic and auspicious event of everyone’s life. </p>
-                <a href="#0" class="btn-view">Plan Now </a> </div>
+<div class="carousel-inner" role="listbox">
+
+    <!-- Slide 1 -->
+    <div class="item active">
+        <img src="img/banner2.jpg" alt="">
+        <div class="carousel-caption">
+            <h1>Wedding Event</h1>
+            <p>In India Marriage is considering as an iconic and auspicious event of everyone’s life.</p>
+            <a href="wedding-events.php" class="btn-view">Plan Now</a>
         </div>
     </div>
+
+    <!-- Slide 2 -->
+    <div class="item">
+        <img src="img/banner2.jpg" alt="">
+        <div class="carousel-caption">
+            <h1>Launch Event</h1>
+            <p>Successful product launch events.</p>
+            <a href="launch-events.php" class="btn-view">Plan Now</a>
+        </div>
+    </div>
+
+    <!-- Slide 3 -->
+    <div class="item">
+        <img src="img/banner2.jpg" alt="">
+        <div class="carousel-caption">
+            <h1>Birthday Event</h1>
+            <p>Celebrate unforgettable birthday moments.</p>
+            <a href="birthday-events.php" class="btn-view">Plan Now</a>
+        </div>
+    </div>
+
+    <!-- Slide 4 -->
+    <div class="item">
+        <img src="img/banner2.jpg" alt="">
+        <div class="carousel-caption">
+            <h1>Corporate Event</h1>
+            <p>Professional corporate event management.</p>
+            <a href="corporate-events.php" class="btn-view">Plan Now</a>
+        </div>
+    </div>
+
+</div>
+    </div>
+    
+    
     
     <!-- Controls --> 
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev"> <span class="fa fa-angle-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#carousel" role="button" data-slide="next"> <span class="fa fa-angle-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> 
@@ -46,7 +78,7 @@ require_once 'header.php';
         <ul class="event_box">
             <li>
                 <ul class="event_inner">
-                    <li><img src="img/img1.jpg" alt=""></li>
+                    <li><img src="img/corporate-events.jpg" alt=""></li>
                     <li class="event_d">
                         <div class="event_m">
                             <div class="event_mb">
@@ -57,7 +89,7 @@ require_once 'header.php';
                     </li>
                 </ul>
                 <ul class="event_inner event_h event_float">
-                  <li><img src="img/wedding.jpg" alt="Wedding"></li>
+                  <li><img src="img/wedding-2.jpg" alt="Wedding"></li>
                     <li class="event_d">
                         <div class="event_m">
                             <div class="event_mb">
@@ -83,7 +115,7 @@ require_once 'header.php';
                     </li>
                 </ul>
                 <ul class="event_inner event_float">
-                  <li><img src="img/birthday-1.jpg" alt="Birthday Event"></li>
+                  <li><img src="img/birthday.jpg" alt="Birthday Event"></li>
                     <li class="event_d">
                         <div class="event_m">
                             <div class="event_mb">
