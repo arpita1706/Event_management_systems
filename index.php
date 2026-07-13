@@ -115,7 +115,7 @@ require_once 'header.php';
                     </li>
                 </ul>
                 <ul class="event_inner event_float">
-                  <li><img src="img/birthday.jpg" alt="Birthday Event"></li>
+                  <li><img src="img/birthday_events.jpg" alt="Birthday Event"></li>
                     <li class="event_d">
                         <div class="event_m">
                             <div class="event_mb">
