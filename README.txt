@@ -1,6 +1,6 @@
 ////////////////--Admin URL--/////////////////////////
 
-http://localhost/mangalam-events/admin/login.php
+http://localhost/harmony-events/admin/login.php
 
 Username: admin
 Password: Admin@123#$

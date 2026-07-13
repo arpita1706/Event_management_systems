@@ -112,7 +112,7 @@ CREATE TABLE `sitedetail` (
 --
 
 INSERT INTO `sitedetail` (`tempId`, `systemName`, `email`, `contact1`, `contact2`, `address`, `dateTime`) VALUES
-(1, 'Harmony Events', 'support@mangalamevents.com', 1122333444, NULL, '3490 Crabapple Dr, Port St Lucie, Florida -34952', '2025-11-20 19:56:25');
+(1, 'Harmony Events', 'support@harmonymevents.com', 1122333444, NULL, '3490 Crabapple Dr, Port St Lucie, Florida -34952', '2025-11-20 19:56:25');
 
 -- --------------------------------------------------------
 
